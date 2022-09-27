@@ -26,6 +26,13 @@ header ul {
 }
 
 header .menu li {
-    display: inline;
+    display: inline-block;
+
+}
+
+header .menu li a {
+    display: block;
+    margin-right: 10px;
+
 
 }
